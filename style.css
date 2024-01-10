@@ -83,3 +83,14 @@ form button{
     display: none;
 }
 
+
+    @media screen and (max-width: 765px) {
+
+    #search-result{
+        width: 80% ;
+        margin: 100px auto ;
+        display: flex;
+        flex-direction: column;
+    }
+}
+
