@@ -84,7 +84,7 @@ form button{
 }
 
 
-@media screen and (max-width: 765px) {
+@media only screen and (max-width: 765px) {
 
     #search-result{
         width: 80% ;
